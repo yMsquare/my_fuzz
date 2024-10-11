@@ -1,0 +1,789 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.3/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.3/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.30.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/GoogleTest.cmake"
+		},
+		{
+			"path" : "fuzztest/CMakeLists.txt"
+		},
+		{
+			"path" : "fuzztest/cmake/AddFuzzTest.cmake"
+		},
+		{
+			"path" : "fuzztest/cmake/FuzzTestFlagSetup.cmake"
+		},
+		{
+			"path" : "fuzztest/cmake/BuildDependencies.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"path" : "fuzztest/cmake/FuzzTestHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CTestUseLaunchers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CTestTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/DartConfiguration.tcl.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/CMake/AbseilDll.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/CMake/AbseilHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/copts/AbseilConfigureCopts.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/copts/GENERATED_AbseilCopts.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/CMake/AbseilDll.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/CMake/abslConfig.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/BasicConfigVersion-ExactVersion.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/base/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/algorithm/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/cleanup/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/container/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/crc/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/debugging/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/flags/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/functional/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/hash/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/log/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/memory/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/meta/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/numeric/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/profiling/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/random/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/status/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/strings/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/synchronization/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/time/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/types/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/abseil-cpp-src/absl/utility/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/re2-src/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CTestUseLaunchers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CTestTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/DartConfiguration.tcl.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/re2-src/re2Config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/BasicConfigVersion-SameMajorVersion.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/re2-src/re2.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/googletest-src/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/googletest-src/googlemock/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/googletest-src/googlemock/cmake/gmock.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/googletest-src/googlemock/cmake/gmock_main.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/googletest-src/googletest/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/googletest-src/googletest/cmake/internal_utils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPython3.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/googletest-src/googletest/cmake/Config.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/googletest-src/googletest/cmake/gtest.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/googletest-src/googletest/cmake/gtest_main.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/antlr_cpp-src/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/antlr_cpp-src/runtime/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/ExternalProject/shared_internal_commands.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/share/cmake-3.30/Modules/GoogleTest.cmake"
+		},
+		{
+			"path" : "fuzztest/grammar_codegen/CMakeLists.txt"
+		},
+		{
+			"path" : "fuzztest/grammar_codegen/generated_antlr_parser/CMakeLists.txt"
+		},
+		{
+			"path" : "fuzztest/tools/CMakeLists.txt"
+		},
+		{
+			"path" : "fuzztest/common/CMakeLists.txt"
+		},
+		{
+			"path" : "fuzztest/fuzztest/CMakeLists.txt"
+		},
+		{
+			"path" : "fuzztest/fuzztest/grammars/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/msquare01/fuzz/my_fuzz/cmake-build-debug",
+		"source" : "/home/msquare01/fuzz/my_fuzz"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

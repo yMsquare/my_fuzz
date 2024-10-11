@@ -1,0 +1,8 @@
+/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/msquare01/.cache/JetBrains/RemoteDev/dist/4deac14e86e5e_CLion-243.18137.40/bin/ninja/linux/x64/ninja -G Ninja -S /home/msquare01/fuzz/my_fuzz -B /home/msquare01/fuzz/my_fuzz/cmake-build-debug
+-- Building without demo. To enable demo build use: -DWITH_DEMO=True
+-- Configuring done (0.8s)
+-- Generating done (0.4s)
+-- Build files have been written to: /home/msquare01/fuzz/my_fuzz/cmake-build-debug
+
+Problems were encountered while collecting compiler information:
+	cc1plus: error: unrecognized argument to '-fsanitize-coverage=' option: '0'
